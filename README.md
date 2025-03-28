@@ -301,3 +301,7 @@ REFERENCES
 
 
 Brooks, Frederick P., "No Silver Bullet: Essence and Accidents of Software Engineering," Computer, Vol. 20, No. 4 (April 1987) pp. 10-19. 
+
+Creditos:
+Traducción original: Bitácora de pacoescriba http://barrapunto.com/~pacoescriba/journal/29784
+Edición: Espartaco Palma @esparta
