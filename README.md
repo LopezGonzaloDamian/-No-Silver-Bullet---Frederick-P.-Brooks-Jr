@@ -1,1 +1,1 @@
-# -No-Silver-Bullet---Frederick-P.-Brooks-Jr
+# No Silver Bullet - Frederick-P. Brooks. Jr
