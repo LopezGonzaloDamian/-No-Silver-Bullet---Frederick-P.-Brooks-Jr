@@ -1,7 +1,7 @@
 # Libros de  Frederick-P. Brooks. Jr
 ![Frederick-P  Brooks  Jr](https://github.com/user-attachments/assets/da0a45e4-90bf-4520-8d3f-982c78722df9)
 
-No Silver Bullet.
+ensayo, No Silver Bullet. 
 
 The Mythical Man-Month.
 
